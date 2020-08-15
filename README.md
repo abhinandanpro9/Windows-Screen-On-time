@@ -7,7 +7,7 @@ Features:
 * Also shows an system tray icon.
 * System tray icon tool tip is enabled.
 * The application can be closed only by double clicking on system tray icon.
-* No autostartup on boot feature. Need to do it manually.
+* Registers itself for autostart, so that it runs automatically after each boot.
 
 Current version: v1.0
 
