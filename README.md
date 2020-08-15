@@ -1,5 +1,5 @@
 # Windows-Screen-On-time
-The app shows the current active screen usage. 
+The app shows the current active screen usage for any windows OS
 
 Features:
 * Shows current active screen on time.
