@@ -12,4 +12,4 @@ Features:
 Current version: v1.0
 
 Note:
-*It currently checks for activity every 30 sec. No settings to change this currently.
+It currently checks for activity every 30 sec. No settings to change this currently.
