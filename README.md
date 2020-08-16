@@ -7,7 +7,7 @@ Features:
 * Also shows an system tray icon.
 * System tray icon tool tip is enabled.
 * The application can be closed only by double clicking on system tray icon.
-* Registers itself for autostart, so that it runs automatically after each boot.
+* Registers itself for autostart, so that it runs automatically after each boot. (May not work on all systems)
 
 Background Colors:
 * Slate-Gray: You're in the safe zone.
