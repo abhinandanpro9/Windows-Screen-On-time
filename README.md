@@ -1,6 +1,10 @@
 # Windows-Screen-On-time
 The app shows the current active screen usage for any windows OS
 
+New in v1.1:
+* The application can be resized.
+* The application can be minimized/restored by single clicking on system tray icon.
+
 Features:
 * Shows current active screen on time.
 * It is a windowless display near the bottom right corner, just above the taskbar. It is 0.95 translucent.
@@ -14,7 +18,7 @@ Background Colors:
 * Orange-Yellow: After 1 hour of usage
 * Red: After 3 hours of usage
 
-Current version: v1.0
+Current version: v1.1
 
 Note:
 * It currently checks for activity periodically. No settings to change this currently.
