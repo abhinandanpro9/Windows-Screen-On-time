@@ -1,7 +1,7 @@
 # Windows-Screen-On-time
 The app shows the current active screen usage for any windows OS
 
-New in v1.2:
+New in v1.3:
 * Optimized algo.
 
 Features:
@@ -19,7 +19,7 @@ Background Colors:
 * Orange-Yellow: After 1 hour of usage
 * Red: After 3 hours of usage
 
-Current version: v1.2
+Current version: v1.3
 
 Note:
 * It currently checks for activity periodically. No settings to change this currently.
