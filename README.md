@@ -1,9 +1,9 @@
 # Windows-Screen-On-time
 The app shows the current active screen usage for any windows OS
 
-New in v1.4:
-* Optimized algo.
-* Right click menu for system tray icon.
+New in v1.4.2:
+* Fix for autostart on boot
+
 
 Features:
 * Shows current active screen on time.
@@ -11,9 +11,10 @@ Features:
 * Also shows an system tray icon.
 * System tray icon tool tip is enabled.
 * The application can be closed only by double clicking on system tray icon.
-* Registers itself for autostart, so that it runs automatically after each boot. (May not work on all systems)
+* Registers itself for autostart, so that it runs automatically after each boot
 * The application can be resized.
 * The application can be minimized/restored by single clicking on system tray icon.
+* Right click menu for system tray icon.
 
 Background Colors:
 * Slate-Gray: You're in the safe zone.
