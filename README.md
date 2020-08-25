@@ -21,7 +21,7 @@ Background Colors:
 * Orange-Yellow: After 1 hour of usage
 * Red: After 3 hours of usage
 
-Current version: v1.4
+Current version: v1.4.2
 
 Note:
 * It currently checks for activity periodically. No settings to change this currently.
